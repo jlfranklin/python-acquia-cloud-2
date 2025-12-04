@@ -1,0 +1,10 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Source: https://github.com/sentaidigital/onedrive_tray_deb
+Upstream-Name: Acquia Cloud API
+Upstream-Contact: John Franklin <franklin@sentaidigital.com>
+
+Files:
+ *
+License: MIT
+Copyright: 2021-2023 Matthais Katz
+           2017-2020 Pablo Fabregat

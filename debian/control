@@ -10,4 +10,4 @@ Package: python3-acapi2
 Architecture: all
 Depends: ${python3:Depends} ${misc:Depends}
 Description: Acquia Cloud API V2 python bindings
-  Python Client library to communicate with the Acquia Cloud API V2.
+ Python Client library to communicate with the Acquia Cloud API V2.
